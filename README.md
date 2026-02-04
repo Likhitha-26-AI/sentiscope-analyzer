@@ -32,8 +32,3 @@ streamlit run sentiment_app.py
 - Hugging Face Transformers
 - PyTorch
 
-## Screenshots
-Coming soon!
-
-## Author
-Third-year student | Microsoft Certified: Azure AI Fundamentals
