@@ -30,5 +30,4 @@ streamlit run sentiment_app.py
 - Python
 - Streamlit
 - Hugging Face Transformers
-- PyTorch.
-
+- PyTorch
